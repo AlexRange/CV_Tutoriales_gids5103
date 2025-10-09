@@ -27,18 +27,18 @@ Cada parte incluye su descripción, capturas de pantalla y documento PDF con el 
 
 | Parte              | Descripción                    | PDF                                                             |
 | :----------------- | :----------------------------- | :-------------------------------------------------------------- |
-| **Vídeo 01**    | Creación del mundo             | [📄 Ver PDF](./Tutoriales/pdf/Video01_CreacionMundo.pdf)        |
-| **Vídeo 02**    | Movimiento y salto del jugador | [📄 Ver PDF](./Tutoriales/pdf/Video02_MovimientoSalto.pdf)      |
-| **Vídeo 03**    | Recoger frutas                 | [📄 Ver PDF](./Tutoriales/pdf/Video03_RecogerFrutas.pdf)        |
-| **Vídeo 04**   | Animaciones del personaje      | [📄 Ver PDF](./Tutoriales/pdf/Video04_AnimacionesPersonaje.pdf) |
-| **Vídeo 05**    | Enemigos y colisiones          | [📄 Ver PDF](./Tutoriales/pdf/Video05_Enemigos.pdf)             |
-| **Vídeo 06**    | Creación de niveles            | [📄 Ver PDF](./Tutoriales/pdf/Video06_Niveles.pdf)              |
-| **Vídeo 07**    | Implementación de CheckPoints  | [📄 Ver PDF](./Tutoriales/pdf/Video07_CheckPoint.pdf)           |
-| **Vídeo 08** | Nuevos personajes              | [📄 Ver PDF](./Tutoriales/pdf/Video08_NuevosPersonajes.pdf)     |
-| **Vídeo 09**    | Menú principal                 | [📄 Ver PDF](./Tutoriales/pdf/Video09_MenuPrincipal.pdf)        |
-| **Vídeo 10**    | Controles para móvil           | [📄 Ver PDF](./Tutoriales/pdf/Video10_ControlesMovil.pdf)       |
-| **Vídeo 11**     | Sistema de puntuación (Score)  | [📄 Ver PDF](./Tutoriales/pdf/Video11_Score.pdf)                |
-| **Vídeo 12**    | Sistema de vidas               | [📄 Ver PDF](./Tutoriales/pdf/Video12_Vidas.pdf)                |
+| **Vídeo 01**    | Creación del mundo             | [📄 Ver PDF](./Tutoriales/Video01_CreacionMundo.pdf)        |
+| **Vídeo 02**    | Movimiento y salto del jugador | [📄 Ver PDF](./Tutoriales/Video02_MovimientoSalto.pdf)      |
+| **Vídeo 03**    | Recoger frutas                 | [📄 Ver PDF](./Tutoriales/Video03_RecogerFrutas.pdf)        |
+| **Vídeo 04**   | Animaciones del personaje      | [📄 Ver PDF](./Tutoriales/Video04_AnimacionesPersonaje.pdf) |
+| **Vídeo 05**    | Enemigos y colisiones          | [📄 Ver PDF](./Tutoriales/Video05_Enemigos.pdf)             |
+| **Vídeo 06**    | Creación de niveles            | [📄 Ver PDF](./Tutoriales/Video06_Niveles.pdf)              |
+| **Vídeo 07**    | Implementación de CheckPoints  | [📄 Ver PDF](./Tutoriales/Video07_CheckPoint.pdf)           |
+| **Vídeo 08** | Nuevos personajes              | [📄 Ver PDF](./Tutoriales/Video08_NuevosPersonajes.pdf)     |
+| **Vídeo 09**    | Menú principal                 | [📄 Ver PDF](./Tutoriales/Video09_MenuPrincipal.pdf)        |
+| **Vídeo 10**    | Controles para móvil           | [📄 Ver PDF](./Tutoriales/Video10_ControlesMovil.pdf)       |
+| **Vídeo 11**     | Sistema de puntuación (Score)  | [📄 Ver PDF](./Tutoriales/Video11_Score.pdf)                |
+| **Vídeo 12**    | Sistema de vidas               | [📄 Ver PDF](./Tutoriales/Video12_Vidas.pdf)                |
 
 
 
