@@ -1,104 +1,122 @@
 # 🎮 Proyecto de Creación de Videojuegos  
 
 Este repositorio forma parte de la materia **Creación de Videojuegos**.  
-Su objetivo es documentar y versionar los avances de un videojuego desarrollado a partir de un **tutorial práctico**, mostrando paso a paso el proceso de construcción del proyecto.  
+Su propósito es **documentar, versionar y presentar los avances** de un videojuego desarrollado a partir de un **tutorial práctico**, mostrando tanto el proceso técnico como visual de su construcción.  
 
-Arte del Juego: (url)
-
----
-
-## 📌 Contenido del Repositorio  
-- Avances organizados por **partes del tutorial**.  
-- Capturas de pantalla y descripciones de cada práctica.  
-- Archivos fuente y recursos generados durante el desarrollo.  
-- Documentación de aprendizajes y mejoras aplicadas.
+🎨 **Arte del Juego:** [Ver aquí](url)  
 
 ---
 
-## 🗂️ Estructura del Proyecto  
+## 📚 Índice de Contenidos  
 
-- **/src** → Código fuente del videojuego  
-- **/assets** → Imágenes, sonidos y recursos gráficos  
-- **/docs** → Documentación y material de apoyo  
-- **/tutorial** → Avances organizados por secciones (Parte1, Parte2, … Parte7)  
+1. [🧩 Tutoriales](#-tutoriales)  
+2. [🕹️ Desarrollo de mi Videojuego](#%EF%B8%8F-desarrollo-de-mi-videojuego)  
+3. [⚔️ Desafíos](#%EF%B8%8F-desafíos)  
+4. [🚀 Tecnologías Utilizadas](#-tecnologías-utilizadas)  
+5. [📅 Cronograma de Avances](#-cronograma-de-avances)  
+6. [📸 Galería General de Avances](#-galería-general-de-avances)  
+7. [👨‍🎓 Autor](#-autor)  
+8. [📜 Licencia](#-licencia)  
+
+---
+
+## 🧩 Tutoriales  
+
+Esta sección contiene los ejercicios y prácticas guiadas basadas en el tutorial del curso.  
+Cada parte incluye su descripción, capturas de pantalla y documento PDF con el desarrollo completo.  
+
+| Parte              | Descripción                    | PDF                                                             |
+| :----------------- | :----------------------------- | :-------------------------------------------------------------- |
+| **Vídeo 01**    | Creación del mundo             | [📄 Ver PDF](./Tutoriales/pdf/Video01_CreacionMundo.pdf)        |
+| **Vídeo 02**    | Movimiento y salto del jugador | [📄 Ver PDF](./Tutoriales/pdf/Video02_MovimientoSalto.pdf)      |
+| **Vídeo 03**    | Recoger frutas                 | [📄 Ver PDF](./Tutoriales/pdf/Video03_RecogerFrutas.pdf)        |
+| **Vídeo 04**   | Animaciones del personaje      | [📄 Ver PDF](./Tutoriales/pdf/Video04_AnimacionesPersonaje.pdf) |
+| **Vídeo 05**    | Enemigos y colisiones          | [📄 Ver PDF](./Tutoriales/pdf/Video05_Enemigos.pdf)             |
+| **Vídeo 06**    | Creación de niveles            | [📄 Ver PDF](./Tutoriales/pdf/Video06_Niveles.pdf)              |
+| **Vídeo 07**    | Implementación de CheckPoints  | [📄 Ver PDF](./Tutoriales/pdf/Video07_CheckPoint.pdf)           |
+| **Vídeo 08** | Nuevos personajes              | [📄 Ver PDF](./Tutoriales/pdf/Video08_NuevosPersonajes.pdf)     |
+| **Vídeo 09**    | Menú principal                 | [📄 Ver PDF](./Tutoriales/pdf/Video09_MenuPrincipal.pdf)        |
+| **Vídeo 10**    | Controles para móvil           | [📄 Ver PDF](./Tutoriales/pdf/Video10_ControlesMovil.pdf)       |
+| **Vídeo 11**     | Sistema de puntuación (Score)  | [📄 Ver PDF](./Tutoriales/pdf/Video11_Score.pdf)                |
+| **Vídeo 12**    | Sistema de vidas               | [📄 Ver PDF](./Tutoriales/pdf/Video12_Vidas.pdf)                |
+
+
 
 ---
 
-## 📖 Avances del Tutorial  
+## 🕹️ Desarrollo de mi Videojuego  
 
-### 🔹 Parte 1 – [Player Animations 2D]  
-📌 Diseño de patrones de software utilizados en Unity.
-    Creacion de animaciones para un jugador.  
+En esta sección se documenta el **progreso del videojuego propio**, inspirado en lo aprendido durante los tutoriales.  
+Incluye descripciones, código fuente, capturas y reflexiones de cada avance semanal.  
 
-[📄 Ver documento PDF](./Tutoriales/Actividad_1_Tutorial.pdf)
-
+| Semana | Descripción | Recursos |
+|---------|--------------|-----------|
+| Semana 1 | Configuración del proyecto y diseño del jugador | [📂 Pendiente](./Desarrollo%20de%20mi%20Videojuego/Semana1) |
+| Semana 2 | Implementación del movimiento y animaciones | [📂 Código](./Desarrollo%20de%20mi%20Videojuego/Semana2) |
+| Semana 3 | Desarrollo del entorno y colisiones | [📂 Código](./Desarrollo%20de%20mi%20Videojuego/Semana3) |
+| Semana 4 | Sistema de enemigos y detección | [📂 Código](./Desarrollo%20de%20mi%20Videojuego/Semana4) |
+| Semana 5 | HUD e integración de interfaz | [📂 Código](./Desarrollo%20de%20mi%20Videojuego/Semana5) |
+| Semana 6 | Pulido general y corrección de bugs | [📂 Código](./Desarrollo%20de%20mi%20Videojuego/Semana6) |
 
 ---
-### 🔹 Parte 2 – [Player Animations 2D]  
-📌 Agrega movimiento.
-    Creacion de movimientos para un jugador.
-<img width="921" height="472" alt="image" src="https://github.com/user-attachments/assets/2a338fc8-a223-479c-866f-196694fe44e4" />
-<img width="583" height="419" alt="image" src="https://github.com/user-attachments/assets/57f0cf20-11ba-44ef-aad7-f57ed976471e" />
-<img width="921" height="465" alt="image" src="https://github.com/user-attachments/assets/06960eb7-aa96-46a1-ab34-043db1973c8d" />
-<img width="921" height="416" alt="image" src="https://github.com/user-attachments/assets/07cb78ae-7784-4658-9131-4305cbeedb24" />
-<img width="921" height="688" alt="image" src="https://github.com/user-attachments/assets/8c04d6dd-ae50-4538-b7f7-78e4414fff12" />
-<img width="921" height="574" alt="image" src="https://github.com/user-attachments/assets/695751ff-4d73-4f3e-9441-cbdbaa85e28e" />
-<img width="921" height="574" alt="image" src="https://github.com/user-attachments/assets/aa9a3d29-181d-4311-920e-4aca91f3a9be" />
-<img width="921" height="226" alt="image" src="https://github.com/user-attachments/assets/c3efb87f-ec29-413a-9e71-75d5b0d74c51" />
-<img width="921" height="236" alt="image" src="https://github.com/user-attachments/assets/5cbd8fa9-034e-4393-bd0e-6d38247fc73c" />
-<img width="921" height="229" alt="image" src="https://github.com/user-attachments/assets/3b1689f9-977e-4ede-8502-993b47b2d034" />
-<img width="921" height="167" alt="image" src="https://github.com/user-attachments/assets/7aabcaa9-2d2a-4031-85aa-1d513f60317b" />
-<img width="921" height="518" alt="image" src="https://github.com/user-attachments/assets/8156005e-55ec-41e4-9a47-c67351493842" />
-<img width="921" height="606" alt="image" src="https://github.com/user-attachments/assets/c7129a16-32bb-4efa-92b3-bd390ca6c0a6" />
-<img width="561" height="705" alt="image" src="https://github.com/user-attachments/assets/545948b1-6c0b-43e2-9b27-45a0a76374c4" />
-<img width="921" height="501" alt="image" src="https://github.com/user-attachments/assets/b50d4d29-efb4-40db-a379-e1112ecae74a" />
-<img width="921" height="436" alt="image" src="https://github.com/user-attachments/assets/cc5e78c7-47d1-4a94-957a-5a62c28e2013" />
-<img width="921" height="318" alt="image" src="https://github.com/user-attachments/assets/c9f875e5-e29f-4dd1-ae9b-25545803f156" />
-<img width="921" height="249" alt="image" src="https://github.com/user-attachments/assets/871b9196-0109-4ab9-b80b-d21fd113d3c6" />
-<img width="752" height="263" alt="image" src="https://github.com/user-attachments/assets/464b734e-9fff-426b-a350-a8089df6b3eb" />
-<img width="921" height="452" alt="image" src="https://github.com/user-attachments/assets/b61ec351-ec1b-427a-9fb6-b236da11df71" />
-<img width="921" height="471" alt="image" src="https://github.com/user-attachments/assets/bc901ecc-95fd-4463-8a61-b3807883bc25" />
-<img width="921" height="393" alt="image" src="https://github.com/user-attachments/assets/1dc48897-c5b4-49b5-9278-86668dfce467" />
-<img width="921" height="430" alt="image" src="https://github.com/user-attachments/assets/506cc86e-f97d-46b2-9caf-2421263b778f" />
+
+## ⚔️ Desafíos  
+
+Aquí se registran los **retos propuestos durante la materia**, enfocados en aplicar conceptos específicos de diseño o programación de videojuegos.  
+
+| Desafío | Objetivo | Material |
+|----------|-----------|-----------|
+| Desafío 1 | Implementar un sistema de físicas realista | [📄 Ver PDF](./Desafios/Desafio_1.pdf) |
+| Desafío 2 | Crear una escena con colisiones y animaciones | [📄 Ver PDF](./Desafios/Desafio_2.pdf) |
+| Desafío 3 | Programar un sistema de puntuación | [📄 Ver PDF](./Desafios/Desafio_3.pdf) |
 
 ---
 
 ## 🚀 Tecnologías Utilizadas  
-- **Motor de desarrollo**: Unity / Unreal / Godot (dependiendo del caso)  
-- **Lenguaje principal**: C# / C++ / GDScript  
-- **Control de versiones**: Git + GitHub  
-- **Entorno de trabajo**: Visual Studio Code / Rider / Otro  
+
+- **Motor de desarrollo:** Unity  
+- **Lenguaje principal:** C#  
+- **Control de versiones:** Git + GitHub  
+- **Entorno de trabajo:** Visual Studio / Visual Studio Code  
+- **Edición de recursos:** Photoshop / Illustrator / Aseprite  
 
 ---
 
 ## 📅 Cronograma de Avances  
-- **Semana 1** → 3 OCT - Parte 1  
-- **Semana 2** → 10 OCT - Parte 2  
-- **Semana 3** → 17 OCT - Parte 3  
-- **Semana 4** → 24 OCT - Parte 4   
-- **Semana 5** → 31 OCT - Parte 5
-- **Semana 6** → 7 OCT - Parte 6
-- **Semana 7** → 14 OCT - Parte 7  
+
+| Semana | Fecha | Actividad |
+|---------|-------|-----------|
+| Semana 1 | 3 OCT | Parte 1  |
+| Semana 2 | 10 OCT | Parte 2 |
+| Semana 3 | 17 OCT | Parte 3 |
+| Semana 4 | 24 OCT | Parte 4 |
+| Semana 5 | 31 OCT | Parte 5 |
+| Semana 6 | 7 NOV | Parte 6  |
+| Semana 7 | 14 NOV | Parte 7 |
 
 ---
 
-## 📸 Galería de Avances  
-Aquí se irán añadiendo más imágenes del progreso:  
+## 📸 Galería General de Avances  
 
 | Parte | Vista previa |
 |-------|--------------|
-| Parte 1 |  |
-| Parte 2 |  |
-| Parte 3 |  |
+| Parte 1 | *(Captura pendiente)* |
+| Parte 2 | *(Captura pendiente)* |
+| Parte 3 | *(Captura pendiente)* |
+
+> Las imágenes se irán agregando conforme avance el proyecto.  
 
 ---
 
 ## 👨‍🎓 Autor  
-- **Alejandro Rangel Perez** – Estudiante de la materia *Creación de Videojuegos*  
-- **Universidad Tecnologica del Norte de Guanajuato / Institució**  
-- **Profesor**: [Gabirel Barron]  
+
+- **Alejandro Rangel Pérez** – Estudiante de la materia *Creación de Videojuegos*  
+- **Universidad Tecnológica del Norte de Guanajuato**  
+- **Profesor:** Gabriel Barrón  
 
 ---
 
 ## 📜 Licencia  
+
 Este proyecto es de carácter académico y se desarrolla únicamente con fines de aprendizaje.  
+© 2025 Alejandro Rangel Pérez – Todos los derechos reservados.
