@@ -11,7 +11,7 @@ Arte del Juego: (url)
 - Avances organizados por **partes del tutorial**.  
 - Capturas de pantalla y descripciones de cada práctica.  
 - Archivos fuente y recursos generados durante el desarrollo.  
-- Documentación de aprendizajes y mejoras aplicadas.  
+- Documentación de aprendizajes y mejoras aplicadas.
 
 ---
 
@@ -30,6 +30,7 @@ Arte del Juego: (url)
 📌 Diseño de patrones de software utilizados en Unity.
     Creacion de animaciones para un jugador.  
 
+[📄 Ver documento PDF](./Tutoriales/Actividad_1_Tutorial.pdf)
 
 
 ---
