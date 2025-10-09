@@ -28,17 +28,17 @@ Cada parte incluye su descripción, capturas de pantalla y documento PDF con el 
 | Parte              | Descripción                    | PDF                                                             |
 | :----------------- | :----------------------------- | :-------------------------------------------------------------- |
 | **Vídeo 01**    | Creación del mundo             | [📄 Ver PDF](./Tutoriales/Video01_CreacionMundo.pdf)        |
-| **Vídeo 02**    | Movimiento y salto del jugador | [📄 Ver PDF](./Tutoriales/Video02_MovimientoSalto.pdf)      |
-| **Vídeo 03**    | Recoger frutas                 | [📄 Ver PDF](./Tutoriales/Video03_RecogerFrutas.pdf)        |
-| **Vídeo 04**   | Animaciones del personaje      | [📄 Ver PDF](./Tutoriales/Video04_AnimacionesPersonaje.pdf) |
-| **Vídeo 05**    | Enemigos y colisiones          | [📄 Ver PDF](./Tutoriales/Video05_Enemigos.pdf)             |
-| **Vídeo 06**    | Creación de niveles            | [📄 Ver PDF](./Tutoriales/Video06_Niveles.pdf)              |
-| **Vídeo 07**    | Implementación de CheckPoints  | [📄 Ver PDF](./Tutoriales/Video07_CheckPoint.pdf)           |
-| **Vídeo 08** | Nuevos personajes              | [📄 Ver PDF](./Tutoriales/Video08_NuevosPersonajes.pdf)     |
-| **Vídeo 09**    | Menú principal                 | [📄 Ver PDF](./Tutoriales/Video09_MenuPrincipal.pdf)        |
-| **Vídeo 10**    | Controles para móvil           | [📄 Ver PDF](./Tutoriales/Video10_ControlesMovil.pdf)       |
-| **Vídeo 11**     | Sistema de puntuación (Score)  | [📄 Ver PDF](./Tutoriales/Video11_Score.pdf)                |
-| **Vídeo 12**    | Sistema de vidas               | [📄 Ver PDF](./Tutoriales/Video12_Vidas.pdf)                |
+| **Vídeo 02**    | Movimiento y salto del jugador | [📄 Pendiente](./Tutoriales/Video02_MovimientoSalto.pdf)      |
+| **Vídeo 03**    | Recoger frutas                 | [📄 Pendiente](./Tutoriales/Video03_RecogerFrutas.pdf)        |
+| **Vídeo 04**   | Animaciones del personaje      | [📄 Pendiente](./Tutoriales/Video04_AnimacionesPersonaje.pdf) |
+| **Vídeo 05**    | Enemigos y colisiones          | [📄 Pendiente](./Tutoriales/Video05_Enemigos.pdf)             |
+| **Vídeo 06**    | Creación de niveles            | [📄 Pendiente](./Tutoriales/Video06_Niveles.pdf)              |
+| **Vídeo 07**    | Implementación de CheckPoints  | [📄 Pendiente](./Tutoriales/Video07_CheckPoint.pdf)           |
+| **Vídeo 08** | Nuevos personajes              | [📄 Pendiente](./Tutoriales/Video08_NuevosPersonajes.pdf)     |
+| **Vídeo 09**    | Menú principal                 | [📄 Pendiente](./Tutoriales/Video09_MenuPrincipal.pdf)        |
+| **Vídeo 10**    | Controles para móvil           | [📄 Pendiente](./Tutoriales/Video10_ControlesMovil.pdf)       |
+| **Vídeo 11**     | Sistema de puntuación (Score)  | [📄 Pendiente](./Tutoriales/Video11_Score.pdf)                |
+| **Vídeo 12**    | Sistema de vidas               | [📄 Pendiente](./Tutoriales/Video12_Vidas.pdf)                |
 
 
 
@@ -52,11 +52,11 @@ Incluye descripciones, código fuente, capturas y reflexiones de cada avance sem
 | Semana | Descripción | Recursos |
 |---------|--------------|-----------|
 | Semana 1 | Configuración del proyecto y diseño del jugador | [📂 Pendiente](./Desarrollo%20de%20mi%20Videojuego/Semana1) |
-| Semana 2 | Implementación del movimiento y animaciones | [📂 Código](./Desarrollo%20de%20mi%20Videojuego/Semana2) |
-| Semana 3 | Desarrollo del entorno y colisiones | [📂 Código](./Desarrollo%20de%20mi%20Videojuego/Semana3) |
-| Semana 4 | Sistema de enemigos y detección | [📂 Código](./Desarrollo%20de%20mi%20Videojuego/Semana4) |
-| Semana 5 | HUD e integración de interfaz | [📂 Código](./Desarrollo%20de%20mi%20Videojuego/Semana5) |
-| Semana 6 | Pulido general y corrección de bugs | [📂 Código](./Desarrollo%20de%20mi%20Videojuego/Semana6) |
+| Semana 2 | Implementación del movimiento y animaciones | [📂 Pendiente](./Desarrollo%20de%20mi%20Videojuego/Semana2) |
+| Semana 3 | Desarrollo del entorno y colisiones | [📂 Pendiente](./Desarrollo%20de%20mi%20Videojuego/Semana3) |
+| Semana 4 | Sistema de enemigos y detección | [📂 Pendiente](./Desarrollo%20de%20mi%20Videojuego/Semana4) |
+| Semana 5 | HUD e integración de interfaz | [📂 Pendiente](./Desarrollo%20de%20mi%20Videojuego/Semana5) |
+| Semana 6 | Pulido general y corrección de bugs | [📂 Pendiente](./Desarrollo%20de%20mi%20Videojuego/Semana6) |
 
 ---
 
@@ -66,9 +66,9 @@ Aquí se registran los **retos propuestos durante la materia**, enfocados en apl
 
 | Desafío | Objetivo | Material |
 |----------|-----------|-----------|
-| Desafío 1 | Implementar un sistema de físicas realista | [📄 Ver PDF](./Desafios/Desafio_1.pdf) |
-| Desafío 2 | Crear una escena con colisiones y animaciones | [📄 Ver PDF](./Desafios/Desafio_2.pdf) |
-| Desafío 3 | Programar un sistema de puntuación | [📄 Ver PDF](./Desafios/Desafio_3.pdf) |
+| Desafío 1 | Implementar un sistema de físicas realista | [📄 Pendiente](./Desafios/Ejercicio_1.pdf) |
+| Desafío 2 | Crear una escena con colisiones y animaciones | [📄 Ver PDF](./Desafios/Ejercicio_Practico_02.pdf) |
+| Desafío 3 | Programar un sistema de puntuación | [📄 Pendiente](./Desafios/Desafio_3.pdf) |
 
 ---
 
