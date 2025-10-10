@@ -28,8 +28,8 @@ Cada parte incluye su descripción, capturas de pantalla y documento PDF con el 
 | Parte              | Descripción                    | PDF                                                             |
 | :----------------- | :----------------------------- | :-------------------------------------------------------------- |
 | **Vídeo 01**    | Creación del mundo             | [📄 Ver PDF](./Tutoriales/Video01_CreacionMundo.pdf)        |
-| **Vídeo 02**    | Movimiento y salto del jugador | [📄 Pendiente](./Tutoriales/Video02_MovimientoSalto.pdf)      |
-| **Vídeo 03**    | Recoger frutas                 | [📄 Pendiente](./Tutoriales/Video03_RecogerFrutas.pdf)        |
+| **Vídeo 02**    | Movimiento y salto del jugador | [📄 Ver PDF](./Tutoriales/Video_02._Movimiento_y_Salto_del_Jugador.pdf)      |
+| **Vídeo 03**    | Recoger frutas                 | [📄 Ver PDF](./Tutoriales/Video03_Recoger_Fruta.pdf)        |
 | **Vídeo 04**   | Animaciones del personaje      | [📄 Pendiente](./Tutoriales/Video04_AnimacionesPersonaje.pdf) |
 | **Vídeo 05**    | Enemigos y colisiones          | [📄 Pendiente](./Tutoriales/Video05_Enemigos.pdf)             |
 | **Vídeo 06**    | Creación de niveles            | [📄 Pendiente](./Tutoriales/Video06_Niveles.pdf)              |
