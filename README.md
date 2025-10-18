@@ -30,7 +30,7 @@ Cada parte incluye su descripción, capturas de pantalla y documento PDF con el 
 | **Vídeo 01**    | Creación del mundo             | [📄 Ver PDF](./Tutoriales/Video01_CreacionMundo.pdf)        |
 | **Vídeo 02**    | Movimiento y salto del jugador | [📄 Ver PDF](./Tutoriales/Video_02_MovimientoySaltodelJugador.pdf)      |
 | **Vídeo 03**    | Recoger frutas                 | [📄 Ver PDF](./Tutoriales/Video_03_RecogerFruta.pdf)        |
-| **Vídeo 04**   | Animaciones del personaje      | [📄 Pendiente](./Tutoriales/Video04_AnimacionesPersonaje.pdf) |
+| **Vídeo 04**   | Animaciones del personaje      | [📄 Ver PDF](./Tutoriales/Video_04_AnimacionesDelPersonaje.pdf) |
 | **Vídeo 05**    | Enemigos y colisiones          | [📄 Pendiente](./Tutoriales/Video05_Enemigos.pdf)             |
 | **Vídeo 06**    | Creación de niveles            | [📄 Pendiente](./Tutoriales/Video06_Niveles.pdf)              |
 | **Vídeo 07**    | Implementación de CheckPoints  | [📄 Pendiente](./Tutoriales/Video07_CheckPoint.pdf)           |
