@@ -31,8 +31,8 @@ Cada parte incluye su descripción, capturas de pantalla y documento PDF con el 
 | **Vídeo 02**    | Movimiento y salto del jugador | [📄 Ver PDF](./Tutoriales/Video_02_MovimientoySaltodelJugador.pdf)      |
 | **Vídeo 03**    | Recoger frutas                 | [📄 Ver PDF](./Tutoriales/Video_03_RecogerFruta.pdf)        |
 | **Vídeo 04**   | Animaciones del personaje      | [📄 Ver PDF](./Tutoriales/Video_04_AnimacionesDelPersonaje.pdf) |
-| **Vídeo 05**    | Enemigos y colisiones          | [📄 Pendiente](./Tutoriales/Video05_Enemigos.pdf)             |
-| **Vídeo 06**    | Creación de niveles            | [📄 Pendiente](./Tutoriales/Video06_Niveles.pdf)              |
+| **Vídeo 05**    | Enemigos y colisiones          | [📄 Ver PDF](./Tutoriales/Video_05_EnemigosYColisiones.pdf)             |
+| **Vídeo 06**    | Creación de niveles            | [📄 Ver PDF](./Tutoriales/Video_06_NuevosNiveles.pdf)              |
 | **Vídeo 07**    | Implementación de CheckPoints  | [📄 Pendiente](./Tutoriales/Video07_CheckPoint.pdf)           |
 | **Vídeo 08** | Nuevos personajes              | [📄 Pendiente](./Tutoriales/Video08_NuevosPersonajes.pdf)     |
 | **Vídeo 09**    | Menú principal                 | [📄 Pendiente](./Tutoriales/Video09_MenuPrincipal.pdf)        |
