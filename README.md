@@ -25,22 +25,21 @@ Su propósito es **documentar, versionar y presentar los avances** de un videoju
 Esta sección contiene los ejercicios y prácticas guiadas basadas en el tutorial del curso.  
 Cada parte incluye su descripción, capturas de pantalla y documento PDF con el desarrollo completo.  
 
-| Parte              | Descripción                    | PDF                                                             |
-| :----------------- | :----------------------------- | :-------------------------------------------------------------- |
-| **Vídeo 01**    | Creación del mundo             | [📄 Ver PDF](./Tutoriales/Video01_CreacionMundo.pdf)        |
-| **Vídeo 02**    | Movimiento y salto del jugador | [📄 Ver PDF](./Tutoriales/Video_02_MovimientoySaltodelJugador.pdf)      |
-| **Vídeo 03**    | Recoger frutas                 | [📄 Ver PDF](./Tutoriales/Video_03_RecogerFruta.pdf)        |
-| **Vídeo 04**   | Animaciones del personaje      | [📄 Ver PDF](./Tutoriales/Video_04_AnimacionesDelPersonaje.pdf) |
-| **Vídeo 05**    | Enemigos y colisiones          | [📄 Ver PDF](./Tutoriales/Video_05_EnemigosYColisiones.pdf)             |
-| **Vídeo 06**    | Creación de niveles            | [📄 Ver PDF](./Tutoriales/Video_06_NuevosNiveles.pdf)              |
-| **Vídeo 07**    | Implementación de CheckPoints  | [📄 Pendiente](./Tutoriales/Video07_CheckPoint.pdf)           |
-| **Vídeo 08** | Nuevos personajes              | [📄 Pendiente](./Tutoriales/Video08_NuevosPersonajes.pdf)     |
-| **Vídeo 09**    | Menú principal                 | [📄 Pendiente](./Tutoriales/Video09_MenuPrincipal.pdf)        |
-| **Vídeo 10**    | Controles para móvil           | [📄 Pendiente](./Tutoriales/Video10_ControlesMovil.pdf)       |
-| **Vídeo 11**     | Sistema de puntuación (Score)  | [📄 Pendiente](./Tutoriales/Video11_Score.pdf)                |
-| **Vídeo 12**    | Sistema de vidas               | [📄 Pendiente](./Tutoriales/Video12_Vidas.pdf)                |
-
-
+Nota: No se añadieron videos para las Partes 1 y 2, ya que la grabación de evidencias comenzó a partir del Tutorial 3.
+| Parte        | Descripción                    | PDF                                                                | Video en Drive                                        |
+| :----------- | :----------------------------- | :----------------------------------------------------------------- | :---------------------------------------------------- |
+| **Vídeo 01** | Creación del mundo             | [📄 Ver PDF](./Tutoriales/Video01_CreacionMundo.pdf)               | — (no hay evidencia en video)                         |
+| **Vídeo 02** | Movimiento y salto del jugador | [📄 Ver PDF](./Tutoriales/Video_02_MovimientoySaltodelJugador.pdf) | — (no hay evidencia en video)                         |
+| **Vídeo 03** | Recoger frutas                 | [📄 Ver PDF](./Tutoriales/Video_03_RecogerFruta.pdf)               | [🎥 Ver Video](https://drive.google.com/file/d/1FXd9Ufd6ZnOW0tt5p3zoviQhjKl0TID-/view?usp=sharing) |
+| **Vídeo 04** | Animaciones del personaje      | [📄 Ver PDF](./Tutoriales/Video_04_AnimacionesDelPersonaje.pdf)    | [🎥 Ver Video](https://drive.google.com/file/d/1SbIKmFqh0TEV-1TF3Tvjs57WCZ7tBn_W/view?usp=sharing) |
+| **Vídeo 05** | Enemigos y colisiones          | [📄 Ver PDF](./Tutoriales/Video_05_EnemigosYColisiones.pdf)        | [🎥 Ver Video](https://drive.google.com/file/d/1M9M73ZYP28POTZrnnctRcAVL2HKPNguh/view?usp=sharing) |
+| **Vídeo 06** | Creación de niveles            | [📄 Ver PDF](./Tutoriales/Video_06_NuevosNiveles.pdf)              | [🎥 Ver Video](https://drive.google.com/file/d/1hYXVTkifCF5C_iBOhh10DvzhZHWa-H6F/view?usp=sharing) |
+| **Vídeo 07** | Implementación de CheckPoints  | [📄 Pendiente](./Tutoriales/Video07_CheckPoint.pdf)                | [🎥 Pendiente](https://drive.google.com/tu_link_aqui) |
+| **Vídeo 08** | Nuevos personajes              | [📄 Pendiente](./Tutoriales/Video08_NuevosPersonajes.pdf)          | [🎥 Pendiente](https://drive.google.com/tu_link_aqui) |
+| **Vídeo 09** | Menú principal                 | [📄 Pendiente](./Tutoriales/Video09_MenuPrincipal.pdf)             | [🎥 Pendiente](https://drive.google.com/tu_link_aqui) |
+| **Vídeo 10** | Controles para móvil           | [📄 Pendiente](./Tutoriales/Video10_ControlesMovil.pdf)            | [🎥 Pendiente](https://drive.google.com/tu_link_aqui) |
+| **Vídeo 11** | Sistema de puntuación (Score)  | [📄 Pendiente](./Tutoriales/Video11_Score.pdf)                     | [🎥 Pendiente](https://drive.google.com/tu_link_aqui) |
+| **Vídeo 12** | Sistema de vidas               | [📄 Pendiente](./Tutoriales/Video12_Vidas.pdf)                     | [🎥 Pendiente](https://drive.google.com/tu_link_aqui) |
 
 ---
 
