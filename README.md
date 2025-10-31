@@ -25,10 +25,9 @@ Su propósito es **documentar, versionar y presentar los avances** de un videoju
 Esta sección contiene los ejercicios y prácticas guiadas basadas en el tutorial del curso.  
 Cada parte incluye su descripción, capturas de pantalla y documento PDF con el desarrollo completo.  
 
-Nota: No se añadieron videos para las Partes 1 y 2, ya que la grabación de evidencias comenzó a partir del Tutorial 3.
 | Parte        | Descripción                    | PDF                                                                | Video en Drive                                        |
 | :----------- | :----------------------------- | :----------------------------------------------------------------- | :---------------------------------------------------- |
-| **Vídeo 01** | Creación del mundo             | [📄 Ver PDF](./Tutoriales/Video01_CreacionMundo.pdf)               | — (no hay evidencia en video)                         |
+| **Vídeo 01** | Creación del mundo             | [📄 Ver PDF](./Tutoriales/Video01_CreacionMundo.pdf)               | [🎥 Ver Video](https://drive.google.com/file/d/1cnSvWoRPRk-GtZgkcAwah5SBj-N0wmu2/view?usp=drive_link)                         |
 | **Vídeo 02** | Movimiento y salto del jugador | [📄 Ver PDF](./Tutoriales/Video_02_MovimientoySaltodelJugador.pdf) | [🎥 Ver Video](https://drive.google.com/file/d/1EtNuQOf9lF8oF5PPJWUCHFL39XbD8G6b/view?usp=drive_link)                     |
 | **Vídeo 03** | Recoger frutas                 | [📄 Ver PDF](./Tutoriales/Video_03_RecogerFruta.pdf)               | [🎥 Ver Video](https://drive.google.com/file/d/1FXd9Ufd6ZnOW0tt5p3zoviQhjKl0TID-/view?usp=sharing) |
 | **Vídeo 04** | Animaciones del personaje      | [📄 Ver PDF](./Tutoriales/Video_04_AnimacionesDelPersonaje.pdf)    | [🎥 Ver Video](https://drive.google.com/file/d/1SbIKmFqh0TEV-1TF3Tvjs57WCZ7tBn_W/view?usp=sharing) |
