@@ -29,7 +29,7 @@ Nota: No se añadieron videos para las Partes 1 y 2, ya que la grabación de evi
 | Parte        | Descripción                    | PDF                                                                | Video en Drive                                        |
 | :----------- | :----------------------------- | :----------------------------------------------------------------- | :---------------------------------------------------- |
 | **Vídeo 01** | Creación del mundo             | [📄 Ver PDF](./Tutoriales/Video01_CreacionMundo.pdf)               | — (no hay evidencia en video)                         |
-| **Vídeo 02** | Movimiento y salto del jugador | [📄 Ver PDF](./Tutoriales/Video_02_MovimientoySaltodelJugador.pdf) | — (no hay evidencia en video)                         |
+| **Vídeo 02** | Movimiento y salto del jugador | [📄 Ver PDF](./Tutoriales/Video_02_MovimientoySaltodelJugador.pdf) | [🎥 Ver Video](https://drive.google.com/file/d/1EtNuQOf9lF8oF5PPJWUCHFL39XbD8G6b/view?usp=drive_link)                     |
 | **Vídeo 03** | Recoger frutas                 | [📄 Ver PDF](./Tutoriales/Video_03_RecogerFruta.pdf)               | [🎥 Ver Video](https://drive.google.com/file/d/1FXd9Ufd6ZnOW0tt5p3zoviQhjKl0TID-/view?usp=sharing) |
 | **Vídeo 04** | Animaciones del personaje      | [📄 Ver PDF](./Tutoriales/Video_04_AnimacionesDelPersonaje.pdf)    | [🎥 Ver Video](https://drive.google.com/file/d/1SbIKmFqh0TEV-1TF3Tvjs57WCZ7tBn_W/view?usp=sharing) |
 | **Vídeo 05** | Enemigos y colisiones          | [📄 Ver PDF](./Tutoriales/Video_05_EnemigosYColisiones.pdf)        | [🎥 Ver Video](https://drive.google.com/file/d/1M9M73ZYP28POTZrnnctRcAVL2HKPNguh/view?usp=sharing) |
@@ -37,9 +37,9 @@ Nota: No se añadieron videos para las Partes 1 y 2, ya que la grabación de evi
 | **Vídeo 07** | Implementación de CheckPoints  | [📄 Ver PDF](./Tutoriales/Video07_CheckPoint.pdf)                | [🎥 Ver Video](https://drive.google.com/file/d/1wC5NXhnirql_isr0dOnNA-rJMjHtyd6B/view?usp=drive_link) |
 | **Vídeo 08** | Hit & Transiciones     | [📄 Ver PDF](./Tutoriales/Video08_Hit&Transiciones.pdf)          | [🎥 Ver Video](https://drive.google.com/file/d/1bCtePPCbwG84ajEjk0wJYxNgmQ_7YKCv/view?usp=sharing) |
 | **Vídeo 09** | Salto Doble & Caida    | [📄 Ver PDF](./Tutoriales/Video09_DoubleJump&Falling.pdf)             | [🎥 Ver Video](https://drive.google.com/file/d/1FPlHCunLqvAyldnPOB7Vpetw8-lWjsVY/view?usp=sharing) |
-| **Vídeo 10** | Controles para móvil           | [📄 Pendiente](./Tutoriales/Video10_ControlesMovil.pdf)            | [🎥 Pendiente](https://drive.google.com/tu_link_aqui) |
-| **Vídeo 11** | Sistema de puntuación (Score)  | [📄 Pendiente](./Tutoriales/Video11_Score.pdf)                     | [🎥 Pendiente](https://drive.google.com/tu_link_aqui) |
-| **Vídeo 12** | Sistema de vidas               | [📄 Pendiente](./Tutoriales/Video12_Vidas.pdf)                     | [🎥 Pendiente](https://drive.google.com/tu_link_aqui) |
+| **Vídeo 10** | Plataformas Doble Sentido| [📄 Ver PDF](./Tutoriales/Video10_PlataformaDobleSentido.pdf)            | [🎥 Ver Video](https://drive.google.com/file/d/1AsdOuHZBuUHUOftz1UXrbRS1kBSfNHfD/view?usp=drive_link) |
+| **Vídeo 11** | Nuevos Personajes | [📄 Ver PDF ](./Tutoriales/Video11_NuevosPersonajes.pdf)                     | [🎥 Ver Video](https://drive.google.com/file/d/1IITxMH1DWY3ip91KndT1vOsHn9K8GlWP/view?usp=sharing) |
+| **Vídeo 12** | Menu Principal Dinamico | [📄 Pendiente](./Tutoriales/Video12_MenuPrincipalDinamico.pdf)                     | [🎥 Ver Video](https://drive.google.com/file/d/1b08ivpwoS3LAudkbJnUYRTuAU12V6wu3/view?usp=sharing) |
 
 ---
 
